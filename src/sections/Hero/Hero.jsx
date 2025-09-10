@@ -8,7 +8,7 @@ import linkedinDark from '../../assets/linkedin-dark.svg';
 import leetcodeLight from '../../assets/leetcode_light.svg'
 import leetcodeDark from '../../assets/leetcode_dark.svg';
 import { useTheme } from '../../common/ThemeContext';
-import Resume from '../../assets/resume.pdf';
+import Resume from '../../assets/my_resume.pdf';
 import heroImg from '../../assets/main_image.png'
 
 function Hero() {
